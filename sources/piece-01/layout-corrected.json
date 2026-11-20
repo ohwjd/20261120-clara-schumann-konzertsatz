@@ -1,6 +1,95 @@
 {
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
-	"instruments": [],
+	"instruments": [
+		{
+			"id": "i1",
+			"name": "Pianoforte",
+			"abbr": "",
+			"grand": true,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i1-1",
+					"parts": []
+				},
+				{
+					"id": "i1-2",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i2",
+			"name": "Violini",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "I"
+				}
+			],
+			"staves": [
+				{
+					"id": "i2-1",
+					"parts": [
+						0
+					]
+				}
+			]
+		},
+		{
+			"id": "i3",
+			"name": "II",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i3-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i4",
+			"name": "Viole",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i4-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i5",
+			"name": "Violoncelli",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i5-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i6",
+			"name": "Contrabassi",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i6-1",
+					"parts": []
+				}
+			]
+		}
+	],
 	"groups": [],
 	"instrumentsFixed": false,
 	"pages": [
@@ -103,43 +192,50 @@
 					"ulx": 364,
 					"uly": 500,
 					"lrx": 2328,
-					"lry": 549
+					"lry": 549,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 346,
 					"uly": 662,
 					"lrx": 2329,
-					"lry": 703
+					"lry": 703,
+					"staff": "i1-2"
 				},
 				{
 					"ulx": 351,
 					"uly": 904,
 					"lrx": 2326,
-					"lry": 967
+					"lry": 967,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 349,
 					"uly": 1120,
 					"lrx": 2331,
-					"lry": 1183
+					"lry": 1183,
+					"staff": "i3-1"
 				},
 				{
 					"ulx": 356,
 					"uly": 1327,
 					"lrx": 2323,
-					"lry": 1389
+					"lry": 1389,
+					"staff": "i4-1"
 				},
 				{
 					"ulx": 351,
 					"uly": 1518,
 					"lrx": 2326,
-					"lry": 1580
+					"lry": 1580,
+					"staff": "i5-1"
 				},
 				{
 					"ulx": 364,
 					"uly": 1719,
 					"lrx": 2322,
-					"lry": 1784
+					"lry": 1784,
+					"staff": "i6-1"
 				},
 				{
 					"ulx": 242,
@@ -1013,86 +1109,44 @@
 					"lry": 1150
 				},
 				{
-					"ulx": 237,
-					"uly": 1710,
-					"lrx": 650,
-					"lry": 1918
-				},
-				{
-					"ulx": 649,
-					"uly": 1709,
-					"lrx": 935,
-					"lry": 1915
-				},
-				{
-					"ulx": 934,
-					"uly": 1709,
-					"lrx": 1242,
-					"lry": 1915
-				},
-				{
-					"ulx": 1241,
-					"uly": 1709,
-					"lrx": 1565,
-					"lry": 1915
-				},
-				{
-					"ulx": 1565,
-					"uly": 1709,
-					"lrx": 1812,
-					"lry": 1914
-				},
-				{
-					"ulx": 1811,
-					"uly": 1707,
-					"lrx": 2080,
-					"lry": 1915
-				},
-				{
-					"ulx": 2079,
-					"uly": 1707,
-					"lrx": 2327,
-					"lry": 1915
-				},
-				{
 					"ulx": 238,
-					"uly": 2109,
+					"uly": 1714,
 					"lrx": 651,
 					"lry": 3227
 				},
 				{
 					"ulx": 649,
-					"uly": 2110,
+					"uly": 1716,
 					"lrx": 935,
 					"lry": 3229
 				},
 				{
 					"ulx": 935,
-					"uly": 2114,
+					"uly": 1713,
 					"lrx": 1240,
 					"lry": 3229
 				},
 				{
 					"ulx": 1238,
-					"uly": 2111,
+					"uly": 1716,
 					"lrx": 1564,
 					"lry": 3228
 				},
 				{
 					"ulx": 1562,
-					"uly": 2113,
+					"uly": 1713,
 					"lrx": 1810,
 					"lry": 3231
 				},
 				{
 					"ulx": 1810,
-					"uly": 2115,
+					"uly": 1710,
 					"lrx": 2073,
 					"lry": 3226
 				},
 				{
 					"ulx": 2073,
-					"uly": 2114,
+					"uly": 1713,
 					"lrx": 2327,
 					"lry": 3231
 				}
