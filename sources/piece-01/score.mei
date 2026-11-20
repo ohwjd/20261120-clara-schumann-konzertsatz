@@ -161,52 +161,52 @@
       <body xml:id="body-1">
          <mdiv xml:id="mdiv-1" n="1">
             <score xml:id="score-1">
-               <scoreDef xml:id="scoreDef-1" optimize="true">
+               <scoreDef xml:id="scoreDef-1" keysig="4f" optimize="true">
                   <staffGrp xml:id="staffGrp-1">
                      <staffGrp xml:id="i1" symbol="brace" bar.thru="true">
                         <label xml:id="label-1">Pianoforte</label>
                         <instrDef xml:id="instrDef-1"/>
-                        <staffDef xml:id="i1-staff1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
-                        <staffDef xml:id="i1-staff2" n="2" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4"/>
+                        <staffDef xml:id="i1-staff1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="3" meter.unit="4"/>
+                        <staffDef xml:id="i1-staff2" n="2" lines="5" clef.shape="F" clef.line="4" meter.count="3" meter.unit="4"/>
                      </staffGrp>
                      <staffGrp xml:id="i2" symbol="bracket" bar.thru="true">
-                        <staffDef xml:id="i2-staff1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                        <staffDef xml:id="i2-staff1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="3" meter.unit="4">
                            <label xml:id="label-2">Violini I</label>
                            <instrDef xml:id="instrDef-2"/>
                            <layerDef xml:id="layerDef-1" n="1" label="I"/>
                            <layerDef xml:id="layerDef-2" n="2" label="II"/>
                         </staffDef>
-                        <staffDef xml:id="i2-staff2" n="4" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                        <staffDef xml:id="i2-staff2" n="4" lines="5" clef.shape="G" clef.line="2" meter.count="3" meter.unit="4">
                            <label xml:id="label-3">Violini II</label>
                            <instrDef xml:id="instrDef-3"/>
                            <layerDef xml:id="layerDef-3" n="2" label="II"/>
                         </staffDef>
                      </staffGrp>
-                     <staffDef xml:id="i4-staff1" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i4-staff1" n="5" lines="5" clef.shape="C" clef.line="3" meter.count="3" meter.unit="4">
                         <label xml:id="label-4">Viole</label>
                         <instrDef xml:id="instrDef-4"/>
                      </staffDef>
-                     <staffDef xml:id="i5-staff1" n="6" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i5-staff1" n="6" lines="5" clef.shape="F" clef.line="4" visible="false" meter.count="3" meter.unit="4">
                         <label xml:id="label-5">Violoncelli</label>
                         <instrDef xml:id="instrDef-5"/>
                      </staffDef>
-                     <staffDef xml:id="i6-staff1" n="7" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i6-staff1" n="7" lines="5" clef.shape="F" clef.line="4" visible="false" meter.count="3" meter.unit="4">
                         <label xml:id="label-6">Contrabassi</label>
                         <instrDef xml:id="instrDef-6"/>
                      </staffDef>
                      <staffGrp xml:id="i7" symbol="bracket" bar.thru="true">
-                        <staffDef xml:id="i7-staff1" n="8" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                        <staffDef xml:id="i7-staff1" n="8" lines="5" clef.shape="F" clef.line="4" meter.count="3" meter.unit="4">
                            <label xml:id="label-7">Vc und Cb Vc</label>
                            <instrDef xml:id="instrDef-7"/>
                            <layerDef xml:id="layerDef-4" n="1" label="Vc"/>
                         </staffDef>
-                        <staffDef xml:id="i7-staff2" n="9" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="4" meter.unit="4">
+                        <staffDef xml:id="i7-staff2" n="9" lines="5" clef.shape="F" clef.line="4" visible="false" meter.count="3" meter.unit="4">
                            <label xml:id="label-8">Vc und Cb Vc</label>
                            <instrDef xml:id="instrDef-8"/>
                            <layerDef xml:id="layerDef-5" n="1" label="Vc"/>
                         </staffDef>
                      </staffGrp>
-                     <staffDef xml:id="i8-staff1" n="10" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i8-staff1" n="10" lines="5" clef.shape="F" clef.line="4" meter.count="3" meter.unit="4">
                         <label xml:id="label-9">Vc unc Cb Cb</label>
                         <instrDef xml:id="instrDef-9"/>
                         <layerDef xml:id="layerDef-6" n="1" label="Cb"/>
