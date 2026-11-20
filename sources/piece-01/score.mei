@@ -142,34 +142,27 @@
          </surface>
          <surface xml:id="surface-6" n="6" ulx="0" uly="0" lrx="2480" lry="3509">
             <graphic xml:id="graphic-6" target="../img/06.jpg" width="2480" height="3509"/>
-            <zone xml:id="zone-6-1" type="measure" n="75" ulx="201" uly="249" lrx="653" lry="530"/>
-            <zone xml:id="zone-6-2" type="measure" n="76" ulx="579" uly="250" lrx="917" lry="529"/>
-            <zone xml:id="zone-6-3" type="measure" n="77" ulx="842" uly="249" lrx="1180" lry="528"/>
-            <zone xml:id="zone-6-4" type="measure" n="78" ulx="1106" uly="249" lrx="1452" lry="528"/>
-            <zone xml:id="zone-6-5" type="measure" n="79" ulx="1378" uly="249" lrx="1773" lry="529"/>
-            <zone xml:id="zone-6-6" type="measure" n="80" ulx="1698" uly="249" lrx="2046" lry="529"/>
-            <zone xml:id="zone-6-7" type="measure" n="81" ulx="1972" uly="249" lrx="2364" lry="529"/>
-            <zone xml:id="zone-6-8" type="measure" n="82" ulx="202" uly="651" lrx="655" lry="1188"/>
-            <zone xml:id="zone-6-9" type="measure" n="83" ulx="580" uly="651" lrx="916" lry="1187"/>
-            <zone xml:id="zone-6-10" type="measure" n="84" ulx="841" uly="651" lrx="1180" lry="1186"/>
-            <zone xml:id="zone-6-11" type="measure" n="85" ulx="1106" uly="650" lrx="1448" lry="1187"/>
-            <zone xml:id="zone-6-12" type="measure" n="86" ulx="1373" uly="651" lrx="1771" lry="1187"/>
-            <zone xml:id="zone-6-13" type="measure" n="87" ulx="1696" uly="651" lrx="2047" lry="1188"/>
-            <zone xml:id="zone-6-14" type="measure" n="88" ulx="1972" uly="652" lrx="2363" lry="1187"/>
-            <zone xml:id="zone-6-15" type="measure" n="89" ulx="200" uly="1673" lrx="687" lry="1955"/>
-            <zone xml:id="zone-6-16" type="measure" n="90" ulx="612" uly="1672" lrx="972" lry="1952"/>
-            <zone xml:id="zone-6-17" type="measure" n="91" ulx="897" uly="1672" lrx="1279" lry="1952"/>
-            <zone xml:id="zone-6-18" type="measure" n="92" ulx="1204" uly="1672" lrx="1602" lry="1952"/>
-            <zone xml:id="zone-6-19" type="measure" n="93" ulx="1528" uly="1672" lrx="1849" lry="1951"/>
-            <zone xml:id="zone-6-20" type="measure" n="94" ulx="1774" uly="1670" lrx="2117" lry="1952"/>
-            <zone xml:id="zone-6-21" type="measure" n="95" ulx="2042" uly="1670" lrx="2364" lry="1952"/>
-            <zone xml:id="zone-6-22" type="measure" n="96" ulx="201" uly="2072" lrx="688" lry="3264"/>
-            <zone xml:id="zone-6-23" type="measure" n="97" ulx="612" uly="2073" lrx="972" lry="3266"/>
-            <zone xml:id="zone-6-24" type="measure" n="98" ulx="898" uly="2077" lrx="1277" lry="3266"/>
-            <zone xml:id="zone-6-25" type="measure" n="99" ulx="1201" uly="2074" lrx="1601" lry="3265"/>
-            <zone xml:id="zone-6-26" type="measure" n="100" ulx="1525" uly="2076" lrx="1847" lry="3268"/>
-            <zone xml:id="zone-6-27" type="measure" n="101" ulx="1773" uly="2078" lrx="2110" lry="3263"/>
-            <zone xml:id="zone-6-28" type="measure" n="102" ulx="2036" uly="2077" lrx="2364" lry="3268"/>
+            <zone xml:id="zone-6-1" type="measure" n="75" ulx="202" uly="254" lrx="655" lry="1188"/>
+            <zone xml:id="zone-6-2" type="measure" n="76" ulx="580" uly="254" lrx="916" lry="1187"/>
+            <zone xml:id="zone-6-3" type="measure" n="77" ulx="841" uly="257" lrx="1180" lry="1186"/>
+            <zone xml:id="zone-6-4" type="measure" n="78" ulx="1106" uly="251" lrx="1448" lry="1187"/>
+            <zone xml:id="zone-6-5" type="measure" n="79" ulx="1373" uly="253" lrx="1771" lry="1187"/>
+            <zone xml:id="zone-6-6" type="measure" n="80" ulx="1696" uly="249" lrx="2047" lry="1188"/>
+            <zone xml:id="zone-6-7" type="measure" n="81" ulx="1972" uly="254" lrx="2363" lry="1187"/>
+            <zone xml:id="zone-6-8" type="measure" n="82" ulx="200" uly="1673" lrx="687" lry="1955"/>
+            <zone xml:id="zone-6-9" type="measure" n="83" ulx="612" uly="1672" lrx="972" lry="1952"/>
+            <zone xml:id="zone-6-10" type="measure" n="84" ulx="897" uly="1672" lrx="1279" lry="1952"/>
+            <zone xml:id="zone-6-11" type="measure" n="85" ulx="1204" uly="1672" lrx="1602" lry="1952"/>
+            <zone xml:id="zone-6-12" type="measure" n="86" ulx="1528" uly="1672" lrx="1849" lry="1951"/>
+            <zone xml:id="zone-6-13" type="measure" n="87" ulx="1774" uly="1670" lrx="2117" lry="1952"/>
+            <zone xml:id="zone-6-14" type="measure" n="88" ulx="2042" uly="1670" lrx="2364" lry="1952"/>
+            <zone xml:id="zone-6-15" type="measure" n="89" ulx="201" uly="2072" lrx="688" lry="3264"/>
+            <zone xml:id="zone-6-16" type="measure" n="90" ulx="612" uly="2073" lrx="972" lry="3266"/>
+            <zone xml:id="zone-6-17" type="measure" n="91" ulx="898" uly="2077" lrx="1277" lry="3266"/>
+            <zone xml:id="zone-6-18" type="measure" n="92" ulx="1201" uly="2074" lrx="1601" lry="3265"/>
+            <zone xml:id="zone-6-19" type="measure" n="93" ulx="1525" uly="2076" lrx="1847" lry="3268"/>
+            <zone xml:id="zone-6-20" type="measure" n="94" ulx="1773" uly="2078" lrx="2110" lry="3263"/>
+            <zone xml:id="zone-6-21" type="measure" n="95" ulx="2036" uly="2077" lrx="2364" lry="3268"/>
          </surface>
       </facsimile>
       <body xml:id="body-1">
@@ -665,42 +658,6 @@
                   <measure xml:id="measure-95" n="95" facs="#zone-6-21">
                      <staff xml:id="staff-95" n="1">
                         <layer xml:id="layer-95" n="1"/>
-                     </staff>
-                  </measure>
-                  <sb xml:id="sb-6-22" n="8"/>
-                  <measure xml:id="measure-96" n="96" facs="#zone-6-22">
-                     <staff xml:id="staff-96" n="1">
-                        <layer xml:id="layer-96" n="1"/>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-97" n="97" facs="#zone-6-23">
-                     <staff xml:id="staff-97" n="1">
-                        <layer xml:id="layer-97" n="1"/>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-98" n="98" facs="#zone-6-24">
-                     <staff xml:id="staff-98" n="1">
-                        <layer xml:id="layer-98" n="1"/>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-99" n="99" facs="#zone-6-25">
-                     <staff xml:id="staff-99" n="1">
-                        <layer xml:id="layer-99" n="1"/>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-100" n="100" facs="#zone-6-26">
-                     <staff xml:id="staff-100" n="1">
-                        <layer xml:id="layer-100" n="1"/>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-101" n="101" facs="#zone-6-27">
-                     <staff xml:id="staff-101" n="1">
-                        <layer xml:id="layer-101" n="1"/>
-                     </staff>
-                  </measure>
-                  <measure xml:id="measure-102" n="102" facs="#zone-6-28">
-                     <staff xml:id="staff-102" n="1">
-                        <layer xml:id="layer-102" n="1"/>
                      </staff>
                   </measure>
                </section>
