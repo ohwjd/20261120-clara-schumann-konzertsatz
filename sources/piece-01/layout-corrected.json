@@ -64,11 +64,21 @@
 			"name": "Viole",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "solo"
+				}
+			],
 			"staves": [
 				{
 					"id": "i4-1",
 					"parts": []
+				},
+				{
+					"id": "i4-2",
+					"parts": [
+						0
+					]
 				}
 			]
 		},
@@ -92,6 +102,19 @@
 			]
 		},
 		{
+			"id": "i6",
+			"name": "Contrabassi",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i6-1",
+					"parts": []
+				}
+			]
+		},
+		{
 			"id": "i8",
 			"name": "Vc unc Cb",
 			"abbr": "",
@@ -107,19 +130,6 @@
 					"parts": [
 						0
 					]
-				}
-			]
-		},
-		{
-			"id": "i6",
-			"name": "Contrabassi",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i6-1",
-					"parts": []
 				}
 			]
 		}
@@ -912,14 +922,14 @@
 					"uly": 2526,
 					"lrx": 2332,
 					"lry": 2585,
-					"staff": "i4-1"
+					"staff": "i4-2"
 				},
 				{
 					"ulx": 242,
 					"uly": 2673,
 					"lrx": 2329,
 					"lry": 2737,
-					"staff": "i7-2"
+					"staff": "i4-2"
 				},
 				{
 					"ulx": 236,
