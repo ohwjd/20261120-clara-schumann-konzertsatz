@@ -47,19 +47,6 @@
 			]
 		},
 		{
-			"id": "i4",
-			"name": "Viole",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i4-1",
-					"parts": []
-				}
-			]
-		},
-		{
 			"id": "i5",
 			"name": "Violoncelli",
 			"abbr": "",
@@ -73,14 +60,14 @@
 			]
 		},
 		{
-			"id": "i6",
-			"name": "Contrabassi",
+			"id": "i4",
+			"name": "Viole",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i6-1",
+					"id": "i4-1",
 					"parts": []
 				}
 			]
@@ -120,6 +107,19 @@
 					"parts": [
 						0
 					]
+				}
+			]
+		},
+		{
+			"id": "i6",
+			"name": "Contrabassi",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i6-1",
+					"parts": []
 				}
 			]
 		}
@@ -666,14 +666,14 @@
 					"uly": 1324,
 					"lrx": 2321,
 					"lry": 1386,
-					"staff": "i5-1"
+					"staff": "i7-2"
 				},
 				{
 					"ulx": 234,
 					"uly": 1526,
 					"lrx": 2317,
 					"lry": 1588,
-					"staff": "i6-1"
+					"staff": "i8-2"
 				},
 				{
 					"ulx": 238,
@@ -715,14 +715,14 @@
 					"uly": 2967,
 					"lrx": 2327,
 					"lry": 3029,
-					"staff": "i5-1"
+					"staff": "i7-2"
 				},
 				{
 					"ulx": 233,
 					"uly": 3167,
 					"lrx": 2322,
 					"lry": 3231,
-					"staff": "i6-1"
+					"staff": "i8-2"
 				}
 			],
 			"grandstaves": [
@@ -863,14 +863,14 @@
 					"uly": 1110,
 					"lrx": 2327,
 					"lry": 1171,
-					"staff": "i5-1"
+					"staff": "i7-2"
 				},
 				{
 					"ulx": 233,
 					"uly": 1284,
 					"lrx": 2330,
 					"lry": 1346,
-					"staff": "i6-1"
+					"staff": "i8-2"
 				},
 				{
 					"ulx": 237,
