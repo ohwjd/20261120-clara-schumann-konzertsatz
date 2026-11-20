@@ -169,15 +169,18 @@
                         <staffDef xml:id="i1-staff1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
                         <staffDef xml:id="i1-staff2" n="2" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4"/>
                      </staffGrp>
-                     <staffDef xml:id="i2-staff1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                        <label xml:id="label-2">Violini I</label>
-                        <instrDef xml:id="instrDef-2"/>
-                        <layerDef xml:id="layerDef-1" n="1" label="I"/>
-                     </staffDef>
-                     <staffDef xml:id="i3-staff1" n="4" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                        <label xml:id="label-3">II</label>
-                        <instrDef xml:id="instrDef-3"/>
-                     </staffDef>
+                     <staffGrp xml:id="i2" symbol="bracket" bar.thru="true">
+                        <staffDef xml:id="i2-staff1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                           <label xml:id="label-2">Violini I</label>
+                           <instrDef xml:id="instrDef-2"/>
+                           <layerDef xml:id="layerDef-1" n="1" label="I"/>
+                        </staffDef>
+                        <staffDef xml:id="i2-staff2" n="4" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                           <label xml:id="label-3">Violini II</label>
+                           <instrDef xml:id="instrDef-3"/>
+                           <layerDef xml:id="layerDef-2" n="2" label="II"/>
+                        </staffDef>
+                     </staffGrp>
                      <staffDef xml:id="i4-staff1" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
                         <label xml:id="label-4">Viole</label>
                         <instrDef xml:id="instrDef-4"/>

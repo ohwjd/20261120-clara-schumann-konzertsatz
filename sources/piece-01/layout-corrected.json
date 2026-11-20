@@ -26,6 +26,9 @@
 			"parts": [
 				{
 					"name": "I"
+				},
+				{
+					"name": "II"
 				}
 			],
 			"staves": [
@@ -34,19 +37,12 @@
 					"parts": [
 						0
 					]
-				}
-			]
-		},
-		{
-			"id": "i3",
-			"name": "II",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
+				},
 				{
-					"id": "i3-1",
-					"parts": []
+					"id": "i2-2",
+					"parts": [
+						1
+					]
 				}
 			]
 		},
@@ -214,7 +210,7 @@
 					"uly": 1120,
 					"lrx": 2331,
 					"lry": 1183,
-					"staff": "i3-1"
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 356,
