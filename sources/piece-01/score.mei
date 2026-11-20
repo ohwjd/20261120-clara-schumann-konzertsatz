@@ -185,13 +185,15 @@
                         <label xml:id="label-4">Viole</label>
                         <instrDef xml:id="instrDef-4"/>
                      </staffDef>
-                     <staffDef xml:id="i5-staff1" n="6" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                        <label xml:id="label-5">Violoncelli</label>
+                     <staffDef xml:id="i7-staff1" n="6" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                        <label xml:id="label-5">Vc und Cb Vc</label>
                         <instrDef xml:id="instrDef-5"/>
+                        <layerDef xml:id="layerDef-3" n="1" label="Vc"/>
                      </staffDef>
-                     <staffDef xml:id="i6-staff1" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                        <label xml:id="label-6">Contrabassi</label>
+                     <staffDef xml:id="i8-staff1" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                        <label xml:id="label-6">Vc unc Cb Cb</label>
                         <instrDef xml:id="instrDef-6"/>
+                        <layerDef xml:id="layerDef-4" n="1" label="Cb"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
