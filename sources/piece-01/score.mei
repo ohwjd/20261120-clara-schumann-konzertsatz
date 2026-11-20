@@ -193,9 +193,9 @@
                            <layerDef xml:id="layerDef-4" n="1" label="solo"/>
                         </staffDef>
                         <staffDef xml:id="i4-staff2" n="7" lines="5" clef.shape="C" clef.line="3" visible="false" meter.count="3" meter.unit="4">
-                           <label xml:id="label-6">Viole solo</label>
+                           <label xml:id="label-6">Viole tutti</label>
                            <instrDef xml:id="instrDef-6"/>
-                           <layerDef xml:id="layerDef-5" n="1" label="solo"/>
+                           <layerDef xml:id="layerDef-5" n="2" label="tutti"/>
                         </staffDef>
                      </staffGrp>
                      <staffGrp xml:id="i7" symbol="bracket" bar.thru="true">
